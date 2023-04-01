@@ -17,3 +17,6 @@ CCU 2023 Deep Learning Homework or Lab
 
 ## Lab3
 * Regularization
+
+## HW3-1
+* Optimization Methods
