@@ -25,7 +25,7 @@ CCU 2023 Deep Learning Homework or Lab
   3. Momentum
   4. Adam
   5. Model with different optimization algorithms
-  5.1 Mini-batch Gradient descent
-  5.2 Mini-batch gradient descent with momentum
-  5.3 Mini-batch with Adam mode
-  5.4 Summary
+    * Mini-batch Gradient descent
+    * Mini-batch gradient descent with momentum
+    * Mini-batch with Adam mode
+    * Summary
