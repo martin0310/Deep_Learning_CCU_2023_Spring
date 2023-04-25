@@ -29,3 +29,5 @@ CCU 2023 Deep Learning Homework or Lab
     * Mini-batch gradient descent with momentum
     * Mini-batch with Adam mode
     * Summary
+## Mid-term
+* Forecast future restaurant visitor totals on a given date
