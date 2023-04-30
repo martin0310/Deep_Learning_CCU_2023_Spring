@@ -31,3 +31,7 @@ CCU 2023 Deep Learning Homework or Lab
     * Summary
 ## Mid-term
 * Forecast future restaurant visitor totals on a given date
+
+## Lab3
+* Convolutional Neural Networks: Step by Step
+
