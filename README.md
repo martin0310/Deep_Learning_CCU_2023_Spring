@@ -38,3 +38,7 @@ CCU 2023 Deep Learning Homework or Lab
 ## HW4
 * Residual Networks
 
+## Lab5
+* Autonomous driving - Car detection
+  * Use object detection on a car detection dataset
+  * Deal with bounding boxes
