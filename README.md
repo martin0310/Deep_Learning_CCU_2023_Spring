@@ -35,3 +35,6 @@ CCU 2023 Deep Learning Homework or Lab
 ## Lab4
 * Convolutional Neural Networks: Step by Step
 
+## HW4
+* Residual Networks
+
