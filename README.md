@@ -42,3 +42,6 @@ CCU 2023 Deep Learning Homework or Lab
 * Autonomous driving - Car detection
   * Use object detection on a car detection dataset
   * Deal with bounding boxes
+  
+## HW6
+* Building your Recurrent Neural Network - Step by Step
